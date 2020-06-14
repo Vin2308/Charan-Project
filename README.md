@@ -1,6 +1,5 @@
 # Charan-Project
 # Employee Leave Management System 
-hhsdfhskjdfkjsdfkjsd
 Users
 1. Admin
 2. Manager
