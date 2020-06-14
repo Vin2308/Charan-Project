@@ -5,6 +5,7 @@ Users
 1. Admin
 2. Manager
 3. Employee
+4. HR
 
 Use cases
   1. Admin should be able to login and add Employees
